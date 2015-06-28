@@ -2,4 +2,6 @@
 Another GIT Tutorial
 Tutorial how to create new issue.
 
+Change the master
+
 
